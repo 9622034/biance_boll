@@ -27,13 +27,7 @@ exchange = ccxt.binance(
     }
 )
 
-# 老弟的api
-# exchange = ccxt.binance(
-#     {
-#         "apiKey": "WDiqn9DGCWdqoObDUdqmJlJWQVE1JMJ3VN6JfC2MuQwKdHlmaz9klA3SlZAruQot",
-#         "secret": "QJaUFCIJiuIdioMTfTDxyx8e29DtE1XIj7YJD3t1JRvJ0c4Kc7LOzKeNanyaRBJs"
-#     }
-# )
+
 
 # symbol和pair最好一致
 symbol = 'ETH/USDT'
